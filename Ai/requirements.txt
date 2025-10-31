@@ -1,0 +1,14 @@
+ollama
+ddgs
+pyttsx3
+requests
+beautifulsoup4
+googletrans
+colorama
+wikipedia
+numpy
+psutil
+pygame
+gtts
+elevenlabs
+pydub
